@@ -1,4 +1,8 @@
+![NicPWNs Profile Banner](https://github.com/NicPWNs/Logo/blob/main/Final/Twitter%20Cover%201.png)
+
 ### Hi there 👋
+
+
 
 <!--
 **NicPWNs/NicPWNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
