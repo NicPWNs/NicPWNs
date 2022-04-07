@@ -1,1 +1,1 @@
-# Contains images for GitHub profile README.md.
+Contains images for GitHub profile README.md.
