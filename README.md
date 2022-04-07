@@ -1,5 +1,5 @@
 ![NicPWNs Profile Banner](https://github.com/NicPWNs/Logo/blob/main/Final/Twitter%20Cover%201.png)
-
+![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=green)
 ### Hi there 👋
 
 
