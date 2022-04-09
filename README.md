@@ -2,7 +2,6 @@
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=red)
 
-**I am certified:** ITF+, A+, Network+, Security+, Splunk Core (Power) User, AWS CCP, AWS SAA, Azure Security Engineer Associate, CEH, ITIL Foundation, SAFe Agilist, OSCP
 <!--
 **NicPWNs/NicPWNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
