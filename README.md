@@ -2,7 +2,7 @@
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=red)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)
 
 <!--
 **NicPWNs/NicPWNs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
