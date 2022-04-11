@@ -1,6 +1,6 @@
 ![NicPWNs Profile Banner](https://github.com/NicPWNs/Logo/blob/main/Final/Twitter%20Cover%201.png)
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://linkedin.com/in/NicPJones"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ![NicPWNs GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
 
