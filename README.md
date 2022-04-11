@@ -2,7 +2,8 @@
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=red)
 
-![NicPWNs GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&show_icons=true)
+![NicPWNs GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicPWNs&theme=dark)
+
 
 
 <!--
