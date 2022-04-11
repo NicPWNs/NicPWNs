@@ -2,10 +2,10 @@
 
 <a href="https://linkedin.com/in/NicPJones"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="http://nicpwns.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-<a href="http://bleak.blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/nicpwns"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="http://nicpwns.parts/"><img src="https://img.shields.io/badge/Intel%20Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
+<a href="http://bleak.blog/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="http://nicpwns.parts/"><img src="https://img.shields.io/badge/NVIDIA-RTX2080TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
+<a href="http://nicpwns.parts/"><img src="https://img.shields.io/badge/Intel%20Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/razer%20laptop-44D62D?style=for-the-badge&logo=razer&logoColor=252525"/>
 
 ![NicPWNs GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
