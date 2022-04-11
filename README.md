@@ -2,8 +2,6 @@
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=red)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicPWNs&theme=blue-green)
-
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true)
 
 <!--
