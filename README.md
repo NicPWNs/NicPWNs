@@ -1,4 +1,5 @@
-![NicPWNs Profile Banner](https://user-images.githubusercontent.com/23003787/184046229-efdc1597-3f3e-46bc-bcb4-8a575d00463a.png)
+![NicPWNs Profile Banner](https://user-images.githubusercontent.com/23003787/184046347-8bf21726-23d4-4df4-8130-74038c605549.png)
+
 
 <a href="https://linkedin.com/in/NicPJones"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="http://nicpwns.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
