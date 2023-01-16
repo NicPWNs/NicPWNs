@@ -8,7 +8,7 @@
 <a href="http://nicpwns.parts/"><img src="https://img.shields.io/badge/Core_i9_9th-0071C5?style=for-the-badge&logo=intel&logoColor=white"/></a>
 <a href="http://nicpwns.parts/"><img src="https://img.shields.io/badge/NVIDIA-RTX2080TI-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/></a>
 
-![NicPWNs GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
+![NicPWNs GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
 
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNse&color=red)  
 
