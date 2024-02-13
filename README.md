@@ -7,9 +7,6 @@
 <a href="https://www.credly.com/users/nicpjones/badges"><img src="https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/></a>
 <a href="https://linkedin.com/in/NicPJones"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://stackoverflow.com/users/21022536/nicpwns"><img src="https://img.shields.io/stackexchange/stackoverflow/r/21022536?style=for-the-badge&logo=stackoverflow&label=stackoverflow&color=orange"/></a>
-![]("https://komarev.com/ghpvc/?username=NicPWNs&color=red&style=for-the-badge&label=Views")
-
-<a href="https://github.com/NicPWNs"></a>
-
+<a href="https://github.com/NicPWNs">![](https://komarev.com/ghpvc/?username=NicPWNs&color=red&style=for-the-badge&label=Views)</a>
 
 ![NicPWNs GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicPWNs&theme=dark&show_icons=true&icon_color=d9624c&bg_color=0d1117&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats)![NicPWNs Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
