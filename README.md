@@ -5,6 +5,9 @@
 <a href="http://nicpwns.com/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://blog.nicpwns.com/"><img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/nicpwns"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://stackoverflow.com/users/21022536/nicpwns"><img src="https://img.shields.io/stackexchange/stackoverflow/r/21022536?style=for-the-badge&logo=stackoverflow&label=stackoverflow&color=orange
+"/></a>
+
 ![Profile Counter](https://komarev.com/ghpvc/?username=NicPWNs&color=red&style=for-the-badge&label=Views)
 
 
