@@ -10,4 +10,4 @@
 <a href="https://github.com/NicPWNs">![](https://komarev.com/ghpvc/?username=NicPWNs&color=red&style=for-the-badge&label=Views)</a>
 
 ![NicPWNs GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicPWNs&theme=transparent&show_icons=true&icon_color=d9624c&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats&title_color=FFFFFF&text_color=777)
-![NicPWNs Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicPWNs&theme=dark&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8)
+![NicPWNs Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicPWNs&theme=transparent&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8&title_color=FFFFFF&text_color=777)
