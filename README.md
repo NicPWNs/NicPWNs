@@ -6,7 +6,7 @@
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nicpjones/badges)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NicPJones)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/21022536?style=for-the-badge&logo=stackoverflow&label=stackoverflow&color=orange)](https://stackoverflow.com/users/21022536/nicpwns)
-![GitHub Views](https://komarev.com/ghpvc/?username=NicPWNs&color=ec1d24&style=for-the-badge&label=Views)
+[![GitHub Views](https://komarev.com/ghpvc/?username=NicPWNs&color=ec1d24&style=for-the-badge&label=Views)](https://github.com/NicPWNs)
 
 [![NicPWNs GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NicPWNs&theme=transparent&show_icons=true&icon_color=ec1d24&hide_border=true&custom_title=NicPWNs%27%20GitHub%20Stats&title_color=FFFFFF&text_color=777&rank_icon=github&include_all_commits=true&ring_color=ec1d24)](https://github.com/NicPWNs)
 [![NicPWNs Language Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=NicPWNs&theme=transparent&layout=compact&bg_color=0d1117&hide_border=true&langs_count=8&title_color=FFFFFF&text_color=777)](https://github.com/NicPWNs)
