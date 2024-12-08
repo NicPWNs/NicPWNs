@@ -4,7 +4,6 @@
 [![NicPWNs Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=medium&color=21759B)](https://blog.nicpwns.com/)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nicpjones/badges)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NicPJones)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/nicpwns)
 [![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/21022536?style=for-the-badge&logo=stackoverflow&label=stackoverflow&color=orange)](https://stackoverflow.com/users/21022536/nicpwns)
 [![GitHub Views](https://komarev.com/ghpvc/?username=NicPWNs&color=ec1d24&style=for-the-badge&label=Views)](https://github.com/NicPWNs)
 
