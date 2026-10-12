@@ -2,8 +2,6 @@
 [![NicPWNs Blog](https://img.shields.io/badge/blog-grey?style=for-the-badge&logo=medium&color=21759B)](https://blog.nicpwns.com/)
 [![Credly](https://img.shields.io/badge/credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/nicpjones/badges)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NicPJones)
-[![Stack Overflow](https://img.shields.io/stackexchange/stackoverflow/r/21022536?style=for-the-badge&logo=stackoverflow&label=stackoverflow&color=orange)](https://stackoverflow.com/users/21022536/nicpwns)
-[![GitHub Views](https://komarev.com/ghpvc/?username=NicPWNs&color=ec1d24&style=for-the-badge&logo=github&label=Views)](https://github.com/NicPWNs)
 
 [![GitHub Foundations](https://images.credly.com/size/110x110/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/708d4cbb-14c9-4df2-ac99-5c244d60b5e5/public_url)
 [![GitHub Actions](https://images.credly.com/size/110x110/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png)](https://www.credly.com/badges/27b80a71-a37d-48a9-8da5-5a25d66632b7/public_url)
