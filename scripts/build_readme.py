@@ -64,6 +64,7 @@ def build_latest_table(resume: dict) -> str:
     award = latest(resume.get("awards", []), "date")
     pub = latest(resume.get("publications", []), "releaseDate")
     cert = latest(resume.get("certificates", []), "date")
+    project = latest(resume.get("projects", []), "startDate")
 
     def cell(title: str, url: str | None, sub: str) -> str:
         head = f"[{md_escape(title)}]({url})" if url else md_escape(title)
@@ -84,12 +85,19 @@ def build_latest_table(resume: dict) -> str:
         cert.get("url") or CREDLY,
         " · ".join(x for x in (cert.get("issuer"), month_year(cert.get("date"))) if x),
     )
+    project_cell = cell(
+        project["name"],
+        project.get("url"),
+        " · ".join(
+            x for x in (project.get("description"), month_year(project.get("startDate"))) if x
+        ),
+    )
 
     return "\n".join(
         [
-            "| 🏆 Latest win | 🔓 Latest CVE | 📜 Latest cert |",
-            "| :-- | :-- | :-- |",
-            f"| {award_cell} | {pub_cell} | {cert_cell} |",
+            "| 🏆 Latest win | 🔓 Latest CVE | 📜 Latest cert | 🛠️ Latest project |",
+            "| :-- | :-- | :-- | :-- |",
+            f"| {award_cell} | {pub_cell} | {cert_cell} | {project_cell} |",
         ]
     )
 
