@@ -7,7 +7,7 @@ Information security professional by day, security researcher and CTF competitor
 <!-- latest starts -->
 | 🏆 Latest win | 🔓 Latest CVE | 📜 Latest cert | 🛠️ Latest project |
 | :-- | :-- | :-- | :-- |
-| [huntr "Inside Job" AI Red Teaming Challenge](https://huntr.com/challenges/3AjanuyEaXoNr6ySHpyo6L/v1/leaderboard)<br><sub>1st Place Overall · Sep 2026</sub> | [CVE-2026-62183](https://www.cve.org/CVERecord?id=CVE-2026-62183)<br><sub>Apache Syncope: User Self-Service Privilege Escalation · Jul 2026</sub> | [GIAC Penetration Tester (GPEN)](https://www.credly.com/earner/earned/badge/e667ed12-ff73-4be3-a367-4924c2c41679)<br><sub>GIAC · Aug 2026</sub> | [GlyphGuard](https://github.com/NicPWNs/GlyphGuard)<br><sub>Unicode security toolkit for the invisible and lookalike characters that make text lie · Oct 2026</sub> |
+| [huntr "Inside Job" AI Red Teaming Challenge](https://huntr.com/challenges/3AjanuyEaXoNr6ySHpyo6L/v1/leaderboard)<br><sub>1st Place Overall · Sep 2026</sub> | [CVE-2026-62183](https://www.cve.org/CVERecord?id=CVE-2026-62183)<br><sub>Apache Syncope: User Self-Service Privilege Escalation · Jul 2026</sub> | [GIAC Penetration Tester (GPEN)](https://www.credly.com/earner/earned/badge/e667ed12-ff73-4be3-a367-4924c2c41679)<br><sub>GIAC · Aug 2026</sub> | [GlyphGuard](https://github.com/NicPWNs/GlyphGuard)<br><sub>Detects invisible and lookalike Unicode characters · Oct 2026</sub> |
 <!-- latest ends -->
 
 <sub>This file rebuilds itself nightly from the same <a href="https://gist.github.com/NicPWNs/5489290125ff3707caf8d51cb6cdc8a0">resume.json</a> that powers <a href="https://nicpjones.com">nicpjones.com</a> and my PDF resume. <a href="scripts/build_readme.py">How it works.</a></sub>
