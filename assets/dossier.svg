@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="172" viewBox="0 0 900 172" role="img" aria-labelledby="title desc">
   <title id="title">Case file: Nic Jones, alias NicPWNs</title>
-  <desc id="desc">Subject Nic Jones. Alias NicPWNs. Occupation hacker. Location Washington, D.C. 12 CTF wins, 2 CVEs published, 26 certifications, 10 years on GitHub.</desc>
+  <desc id="desc">Subject Nic Jones. Alias NicPWNs. Occupation hacker. Location Washington, D.C. 13 CTF wins, 2 CVEs published, 27 certifications, 10 years on GitHub.</desc>
   <defs>
     <style>
       .mono { font-family: ui-monospace, "Cascadia Mono", "SF Mono", Menlo, Consolas, "Courier New", monospace; }
@@ -50,15 +50,15 @@
   <g transform="translate(580 76) rotate(-6)" opacity="0.82">
     <rect x="-98" y="-26" width="196" height="52" rx="5" fill="none" stroke="#b4453a" stroke-width="3"/>
     <text x="0" y="-2" text-anchor="middle" class="mono stamp">UPDATED</text>
-    <text x="0" y="17" text-anchor="middle" class="mono stampdate">2026-10-22</text>
+    <text x="0" y="17" text-anchor="middle" class="mono stampdate">2026-11-14</text>
   </g>
 
   <!-- stats strip -->
   <line x1="22" y1="136" x2="878" y2="136" stroke="#2b2823" stroke-width="1.5"/>
   <g class="mono" transform="translate(22 156)">
-    <text x="0" y="0"><tspan class="statn">12</tspan><tspan class="stat" dx="6">CTF WINS</tspan></text>
+    <text x="0" y="0"><tspan class="statn">13</tspan><tspan class="stat" dx="6">CTF WINS</tspan></text>
     <text x="150" y="0"><tspan class="statn">2</tspan><tspan class="stat" dx="6">CVEs PUBLISHED</tspan></text>
-    <text x="326" y="0"><tspan class="statn">26</tspan><tspan class="stat" dx="6">CERTIFICATIONS</tspan></text>
+    <text x="326" y="0"><tspan class="statn">27</tspan><tspan class="stat" dx="6">CERTIFICATIONS</tspan></text>
     <text x="518" y="0"><tspan class="statn">10</tspan><tspan class="stat" dx="6">YEARS ON GITHUB</tspan></text>
   </g>
 </svg>
